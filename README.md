@@ -35,35 +35,22 @@ Their Marketing team is responsible for increasing brand awareness, market share
 
 ## Business request 1 : Who prefers energy drink more? (male/female/non-binary?),  Which age group prefers energy drinks more? ,Which type of marketing reaches the most Youth (15-30)?
 
+![Screenshot 2024-08-29 202537](https://github.com/user-attachments/assets/e1ebea3e-3fbe-4ed1-b36f-c35a7c7c872a)
 
-![Screenshot 2024-05-25 150114](https://github.com/Priash-Rahman/Promotion_analysis-of-AtliQ_Mart/assets/155983828/2a73d5e5-7989-4271-bdd2-f6321aad1b1c)
-![Screenshot 2024-05-25 140610](https://github.com/Priash-Rahman/Promotion_analysis-of-AtliQ_Mart/assets/155983828/78e5a0b6-c805-4223-93b2-1407a80eac35)
+- 60% of our  customers are male , 70% of customers are youth age ranging 15-30 combinedly, though 55% alone  is19-30.
+- Online & TV commercials have huge impact on youth(15-30), out of 40% respondents 35% are impacted by online ads & of 27% respondents 18% are impacting youth (15-30).
 
-![Screenshot 2024-05-30 210255](https://github.com/Priash-Rahman/Promotion_analysis-of-AtliQ_Mart/assets/155983828/fc00cf78-ac7c-4c34-959c-066b6c00f6b5)
-![Screenshot 2024-05-25 141927](https://github.com/Priash-Rahman/Promotion_analysis-of-AtliQ_Mart/assets/155983828/d24ab2e4-cd62-4c41-973e-9e278c65e200)
-
--  Diwali have the upper edge when it comes to 33% & cashback promo as it generates high isu%  ; 
-- Even though when it comes to promotion based on product pricing sankranti clearly has the upper edge as  low to moderate pricing product has significant growth in sankranti due to its promo offer to certain products  ! ;
-- Diwali also as high IR as it offers more 50% off promo in low price section on contrary 
-   sankranti offers more BOGOF promo one of the reasons for its high ISU %  ;
-- Based on IR% Diwali is Successful and based on ISU% Sankranti is heavy Successful.
-- Sankranti is successful when it comes to balance between IR% and ISU% .
       
 
 ## Business request 2 : What are the preferred ingredients of energy drinks among respondents?, What packaging preferences do respondents have for energy drinks?
-![Screenshot 2024-05-26 203133](https://github.com/Priash-Rahman/Promotion_analysis-of-AtliQ_Mart/assets/155983828/28e9ca64-4046-4af3-9b64-ff86e7bd82b3)
+![Screenshot 2024-08-29 210407](https://github.com/user-attachments/assets/fa2ed739-a8eb-4687-984c-0ef7084ba722)
 
 
-- Cancelation trend going upwards since apr and making a constant impact till october 
-- At the other end it clearly observed that avg daily rate has a upward trend till Aug .
-- Avg daily rate has a key impact driving canceled booking over time !
+- Caffeine , vitamins are the most preferred compounds among respondents comprising of 65% 
+- Compact-portable cans & innovative bottle design are most preferred by respondents.           
 
-## Business request 3 : Who are the current market leaders?  What are the primary reasons consumers prefer those brands over ours?
- 
-![Screenshot 2024-05-26 233432](https://github.com/Priash-Rahman/Promotion_analysis-of-AtliQ_Mart/assets/155983828/f5fcef02-bbd1-47fa-9df4-3be07bb93dfc)
-![Screenshot 2024-05-29 200941](https://github.com/Priash-Rahman/Promotion_analysis-of-AtliQ_Mart/assets/155983828/ef8830e2-f30f-438e-8ae2-8f44f384446c)
-![Screenshot 2024-05-29 201034](https://github.com/Priash-Rahman/Promotion_analysis-of-AtliQ_Mart/assets/155983828/30dcadad-f5dc-4d23-a24b-2abdd5ae3148)
-![Screenshot 2024-05-30 202142](https://github.com/Priash-Rahman/Promotion_analysis-of-AtliQ_Mart/assets/155983828/81c1624a-148c-41e4-b0e5-9a7a57ba2d15)
+## Business request 3 : Who are the current market leaders?  What are the primary reasons consumers prefer those brands over ours?    (Competition analysis)
+
 
 
 - Almost 97% of Incremental revenue is generated from cashback & BOGOF promo !
