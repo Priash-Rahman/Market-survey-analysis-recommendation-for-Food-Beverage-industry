@@ -52,10 +52,9 @@ Their Marketing team is responsible for increasing brand awareness, market share
 ## Business request 3 : Who are the current market leaders?  What are the primary reasons consumers prefer those brands over ours?    (Competition analysis)
 
 
-
-- Almost 97% of Incremental revenue is generated from cashback & BOGOF promo !
- - cashback promo is Successful in Diwali campaign & BOGOF is Successful in Sankranti festivel .
- - 25% promo is a failed promo when it comes to revenue &  sold quantity !
+![Screenshot 2024-09-01 204441](https://github.com/user-attachments/assets/cf34582b-dcce-498f-bedd-ca8b7b827bae)
+- Cola-Coka , Bepsi , Gansgster are the top preferred brands among respondents where cola-Coka & bepsi are certainly the market leaders . 
+- Not available locally & health concerns are top reasons for not trying our brands , overall 18.5% of respondents are unfamilier with the our brand .
 
  
  ## Business request 4 : Which marketing channel can be used to reach more customers ?How effective are different marketing strategies and channels in reaching our customers? 
